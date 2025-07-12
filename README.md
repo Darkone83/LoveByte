@@ -68,7 +68,7 @@ After you’ve got your microSD card (any size is fine—LoveByte isn’t greedy
    - `messages`
    - `res`
 3. **Add your splash screen**:  
-   Place your custom <ahref="https://github.com/Darkone83/LoveByte/tree/main/sdcard/res">`splash.jpg`</a> into the `res` folder.  
+   Place your custom <a href="https://github.com/Darkone83/LoveByte/tree/main/sdcard/res">`splash.jpg`</a> into the `res` folder.  
    That’s the image LoveByte shows off when she boots up—so make it cute!
 
 ### 💡 Pro Tips
