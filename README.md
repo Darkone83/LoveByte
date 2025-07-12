@@ -176,28 +176,28 @@ Want LoveByte to greet you with the weather each morning or whenever you check i
 Now you’re ready to visit LoveByte’s web pages!
 
 - **Landing Page:**  
-  `http://[LoveByte_IP]/lb`  
+  `http://lovebyrte.local/lb`  
   See her style and options.
   <div align=center>
     <img src="https://github.com/Darkone83/LoveByte/blob/main/images/landing.png" height=650 width=250>
   </div>
 
 - **Message Center:**  
-  `http://[LoveByte_IP]/lb/cloud`  
+  `http://lovebyte.local/lb/cloud`  
   Send messages, images, and all the good vibes.
   <div align=center>
     <img src="https://github.com/Darkone83/LoveByte/blob/main/images/message.png" height=650 width=250>
   </div>
 
 - **Configuration:**  
-  `http://[LoveByte_IP]/config`  
+  `http://lovebyte.local/config`  
   Update her name, server address, and settings.
   <div align=center>
     <img src="https://github.com/Darkone83/LoveByte/blob/main/images/config.png" height=650 width=250>
   </div>
 
 - **File Manager:**  
-  `http://[LoveByte_IP]/files`  
+  `http://lovebyte.local/files`  
   Upload or organize your images and messages.
   <div align=center>
     <img src="https://github.com/Darkone83/LoveByte/blob/main/images/fileman1.png" height=650 width=250>
@@ -206,13 +206,13 @@ Now you’re ready to visit LoveByte’s web pages!
   </div>
 
 - **Diagnostics:**  
-  `http://[LoveByte_IP]/diag`  
+  `http://lovebyte.local/diag`  
   Peek at her vitals—Wi-Fi, uptime, memory, and more!
   <div align=center>
     <img src="https://github.com/Darkone83/LoveByte/blob/main/images/diag.png" height=650 width=250>
   </div>
 
-Replace `[LoveByte_IP]` with your device’s actual address. Bookmark your favorites—she loves visitors!
+Bookmark your favorites—she loves visitors!
 
 Now your LoveByte is online and ready to shine! 🎀✨
 
