@@ -73,7 +73,6 @@ After you’ve got your microSD card (any size is fine—LoveByte isn’t greedy
 
 ### 💡 Pro Tips
 
-- Don’t worry about the image size—LoveByte will handle it!  
 - Want to change the splash? Just swap out `splash.jpg` anytime.
 - You can add, remove, or peek at images and messages anytime using the file manager in the web UI.
 
