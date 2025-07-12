@@ -150,29 +150,68 @@ Once your LoveByte is powered up for the first time, she’ll roll out the welco
 3. **Find Her New Address**  
    - Once connected, open your browser and visit `lovebyte.local`.
 
+---
+
+## 🌦️ Weather Setup: Give LoveByte Her Daily Forecast! ☀️🌧️
+
+Want LoveByte to greet you with the weather each morning or whenever you check in? She can, but she’ll need a little help from you (and OpenWeather)!
+
+1. **Get Your OpenWeather API Key**  
+   - Visit [https://openweathermap.org/api](https://openweathermap.org/api) and sign up for a free account.
+   - Once logged in, create an API key (it’s super quick!).
+
+2. **Enter the API Key on LoveByte’s Config Page**  
+   - Go to `http://[LoveByte_IP]/config` in your browser.
+   - Paste your API key into the weather section.
+   - Set your city and country code.
+
+3. **Save Your Changes**  
+   - Click “Save” and give LoveByte a moment to update.
+   - She’ll now fetch and show your local weather with every new message or screen refresh!
+
+*Now your LoveByte can dress for the weather—maybe even bring an umbrella emoji on rainy days!* ☔🌸
+
+
 ### 💕 Exploring the Pages
 
 Now you’re ready to visit LoveByte’s web pages!
 
 - **Landing Page:**  
-  `http://[LoveByte_IP]/`  
-  See her current status and a warm hello.
+  `http://[LoveByte_IP]/lb`  
+  See her style and options.
+  <div align=center>
+    <img src="https://github.com/Darkone83/LoveByte/blob/main/images/landing.png" height=650 width=250>
+  </div>
 
 - **Message Center:**  
   `http://[LoveByte_IP]/lb/cloud`  
   Send messages, images, and all the good vibes.
+  <div align=center>
+    <img src="https://github.com/Darkone83/LoveByte/blob/main/images/message.png" height=650 width=250>
+  </div>
 
 - **Configuration:**  
   `http://[LoveByte_IP]/config`  
   Update her name, server address, and settings.
+  <div align=center>
+    <img src="https://github.com/Darkone83/LoveByte/blob/main/images/config.png" height=650 width=250>
+  </div>
 
 - **File Manager:**  
   `http://[LoveByte_IP]/files`  
   Upload or organize your images and messages.
+  <div align=center>
+    <img src="https://github.com/Darkone83/LoveByte/blob/main/images/fileman1.png" height=650 width=250>
+
+    <img src="https://github.com/Darkone83/LoveByte/blob/main/images/fileman2.png" height=650 width=250>
+  </div>
 
 - **Diagnostics:**  
   `http://[LoveByte_IP]/diag`  
   Peek at her vitals—Wi-Fi, uptime, memory, and more!
+  <div align=center>
+    <img src="https://github.com/Darkone83/LoveByte/blob/main/images/diag.png" height=650 width=250>
+  </div>
 
 Replace `[LoveByte_IP]` with your device’s actual address. Bookmark your favorites—she loves visitors!
 
