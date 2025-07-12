@@ -1,5 +1,3 @@
----
-
 ## 💻 About the LoveByte Server: Host Your Own Little Cloud of Cuteness! ☁️✨
 
 Want to make your messages and pics fly across the room (or the whole house)? The **LoveByte server** is your magic cloud! Just run it on your computer or Raspberry Pi, and suddenly all your LoveByte devices can chat, share, and shine together—like the best sleepover ever, but for gadgets!
@@ -11,8 +9,6 @@ Want to make your messages and pics fly across the room (or the whole house)? Th
 
 So, grab your favorite mug, spin up the server, and watch your own little world of LoveBytes come to life. It’s like hosting a tea party for your tech—with sparkles, of course! ☕🌈💬
 
----
-
 ## 🌟 Server Setup: Open Your Heart (and Port 6969!) 🌟
 
 **Ready to host your own LoveByte party?** Here’s how to get your LoveByte server up and running, and make sure your devices can talk to each other without a hitch!
@@ -23,9 +19,7 @@ Download [Python 3](https://python.org/) and install it—easy peasy!
 ### 2. Run the LoveByte Server
 Just open a terminal (or command prompt), go to your LoveByte server folder, and run:
 
-```bash
-python script.py
-```
+    python script.py
 
 This launches your server, and it will automatically set up everything it needs (even the cute dependencies).
 
@@ -48,9 +42,9 @@ For your LoveByte devices to connect, you need to let them through your computer
 - Add a new rule to allow incoming connections for Python (or Terminal) on port 6969.
 
 **On Linux:**
-```bash
-sudo ufw allow 6969/tcp
-```
+
+    sudo ufw allow 6969/tcp
+
 (or use your system’s firewall tool)
 
 ### 4. Find Your Server’s IP Address
@@ -65,7 +59,5 @@ Your LoveByte devices need the server’s IP address!
 
 ### 6. Ready, Set, Sparkle!
 Now all your LoveByte devices can send and receive messages, pics, and good vibes! If you ever need to add more friends, just repeat these steps. 💖
-
----
 
 If you get stuck, don’t worry—LoveByte is all about bringing a little more joy (and pink) to your tech life. Let the love flow!
