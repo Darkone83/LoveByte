@@ -19,7 +19,7 @@ Download [Python 3](https://python.org/) and install it—easy peasy!
 ### 2. Run the LoveByte Server
 Just open a terminal (or command prompt), go to your LoveByte server folder, and run:
 
-    python script.py
+    python lovebyte_server.py
 
 This launches your server, and it will automatically set up everything it needs (even the cute dependencies).
 
