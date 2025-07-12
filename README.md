@@ -176,7 +176,7 @@ Want LoveByte to greet you with the weather each morning or whenever you check i
 Now you’re ready to visit LoveByte’s web pages!
 
 - **Landing Page:**  
-  `http://lovebyrte.local/lb`  
+  `http://lovebyte.local/lb`  
   See her style and options.
   <div align=center>
     <img src="https://github.com/Darkone83/LoveByte/blob/main/images/landing.png" height=650 width=250>
