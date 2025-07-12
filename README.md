@@ -1,4 +1,12 @@
+<div align=center>
+  <img src="https://github.com/Darkone83/LoveByte/blob/main/images/logo.jpg" height=400 width=400>
+</div>
+
 # LoveByte: The Cutest Little Messenger for Your Tech Life! 💌✨
+
+<div align=center>
+  <img src="https://github.com/Darkone83/LoveByte/blob/main/images/message.jpg" height=300 width=300>
+</div>
 
 Meet **LoveByte**, your adorable ESP32-powered sidekick! She’s not just a smart device—she’s your new BFF for sending love notes, sparkly messages, and cute pics right to your DIY gadgets. Here’s what she can do:
 
@@ -79,28 +87,19 @@ Before you can bring your LoveByte to life, you’ll need to make sure her wardr
 
 ### 💅 Required Arduino Libraries
 
-Head over to the Arduino Library Manager (or PlatformIO) and add these gems:
+Head over to the Arduino Library Manager and add these gems:
 
 - **ESPAsyncWebServer**  
 - **AsyncTCP**  
-- **ArduinoJson**  
-- **HTTPClient**  
-- **FS**  
-- **SD_MMC**  
-- **WiFi**  
-- **ESPmDNS**  
-- **time**  
+- **ArduinoJson**    
+- **AnimatedGIF** 
 - **LovyanGFX**  
-  (Don’t forget to pick the right panel driver for your display, like ST7789 or GC9A01.)
 
 ### 💖 How To Install
 
-1. **In Arduino IDE:**  
+**In Arduino IDE:**  
    - Go to `Tools` → `Manage Libraries…`
    - Search for each library name above and click “Install”.
-
-2. **In PlatformIO:**  
-   - Add each library to your `lib_deps` in `platformio.ini`.
 
 Now your LoveByte has everything she needs to sparkle, connect, and express herself! If you’re not sure which driver to pick for your display, check the board details or just ask—LoveByte loves to help her friends look their best. 💃
 
@@ -116,7 +115,11 @@ You’re almost there! Once all the libraries are in place and your code is look
 2. **Open the project** in Arduino IDE or PlatformIO.
 3. **Select your board** (`ESP32S3 Dev Module` or the exact match for your LoveByte device).
 4. **Choose the correct COM port**—so she knows where to land.
-5. **Click “Upload”** (the right-facing arrow) and let the sparkle happen!
+5. **Board options**
+<div align=center>
+  <img src="https://github.com/Darkone83/LoveByte/blob/main/images/arduino.png">
+</div>
+6. **Click “Upload”** (the right-facing arrow) and let the sparkle happen!
 
 She’ll wiggle her way into your heart (and her new board) in no time.  
 When she restarts, she’s ready to dazzle and connect—just like the social butterfly she is!
@@ -133,13 +136,19 @@ Once your LoveByte is powered up for the first time, she’ll roll out the welco
 
 1. **Join LoveByte’s Wi-Fi**  
    - On first boot, connect your phone or computer to the “LoveByte” Wi-Fi network she creates.
+  <div align=center>
+    <img src="https://github.com/Darkone83/LoveByte/blob/main/images/network.png" height=250 width=300>
+  </div>
 
 2. **Open Your Browser**  
    - Navigate to [http://192.168.4.1](http://192.168.4.1) to set up your Wi-Fi.  
    - Follow the prompts to connect LoveByte to your home network.
+  <div align=center>
+    <img src="https://github.com/Darkone83/LoveByte/blob/main/images/wifi.png" height=650 width=250>
+  </div>
 
 3. **Find Her New Address**  
-   - Once connected, check your router or serial monitor to find her new IP address on your network (e.g., `192.168.1.x`).
+   - Once connected, open your browser and visit `lovebyte.local`.
 
 ### 💕 Exploring the Pages
 
