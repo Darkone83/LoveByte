@@ -1,5 +1,9 @@
 ## 💻 About the LoveByte Server: Host Your Own Little Cloud of Cuteness! ☁️✨
 
+<div align=center>
+    <img src="https://github.com/Darkone83/LoveByte/blob/main/images/server.png">
+</div>
+
 Want to make your messages and pics fly across the room (or the whole house)? The **LoveByte server** is your magic cloud! Just run it on your computer or Raspberry Pi, and suddenly all your LoveByte devices can chat, share, and shine together—like the best sleepover ever, but for gadgets!
 
 - **Super Simple**: Start the LoveByte server with one easy command. No complicated setup, promise!
